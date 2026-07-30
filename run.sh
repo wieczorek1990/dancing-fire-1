@@ -1,5 +1,5 @@
-
 #!/bin/bash
+
 set -e
 
 APP_NAME="MinimalMacApp.app"

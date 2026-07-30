@@ -1,8 +1,7 @@
 import SwiftUI
 import RealityKit
-import AppKit // Dla macOS
+import AppKit
 
-// Używamy aliasów, aby uniknąć konfliktu między SwiftUI.Scene a RealityKit.Scene
 typealias AppScene = SwiftUI.Scene
 typealias AppView = SwiftUI.View
 
